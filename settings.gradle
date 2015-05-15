@@ -1,1 +1,1 @@
-include ':app', ':growth_push_wrapper'
+include ':sample', ':growth_push_wrapper'
