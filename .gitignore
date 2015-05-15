@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# gradle files
+.gradle
+.idea
+
+# generated files
+bin/
+gen/
+apk/
+target/
+build/
+obj/
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
